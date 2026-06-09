@@ -15,7 +15,7 @@ Simple app for Pixel Gun 3D to be able to import custom skins
 - Clear modded skin registry values
 ![image 1](/images/img1.png)
 ![image 2](/images/img2.png)
-YouTube Tutorial - https://youtu.be/sAWJafmWXWc
+YouTube Tutorial - [https://youtu.be/sAWJafmWXWc](https://youtu.be/wVU7yM4ZNLE)
 
 ## Requirements
 
@@ -34,7 +34,8 @@ adding these registry keys make the skins be saved to the device locally
 
 ## Notes
 
-- Skin size must be 64x32 or another 2:1 ratio
+- This method of adding skins is 100% safe and wont get you banned
+- Skin size must be 64x32 or another 2:1 ratio OR 64x64 or another 1:1 ratio
 - You must reopen pg3d for the skins to appear if you already have it running
 - To save skins to cloud, edit the skin in-game and save it. The skins are saved locally on the devicce when they are added
 
