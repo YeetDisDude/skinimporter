@@ -42,7 +42,6 @@ adding these registry keys make the skins be saved to the device locally
 ## Credits
 
 - Claude 💯💯💯💯
-- Stella - for the player [info lookup](https://modfs.top/tools/getplayerinfo)
 
 
 Made by YeetDisDude

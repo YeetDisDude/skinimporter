@@ -51,7 +51,7 @@ BUTTON_FG_COLOR = "#7C3AED"
 BUTTON_HOVER_COLOR = "#5B21B6"
 BUTTON_TEXT_COLOR = "white"
 
-VERSION = "1.2"
+VERSION = "1.3"
 
 class App(customtkinter.CTk):
     def __init__(self):
@@ -417,7 +417,7 @@ class App(customtkinter.CTk):
         threading.Thread(target=self._do_player_search, args=(player_id,), daemon=True).start()
 
     def _do_player_search(self, player_id: str):
-        url = "https://modfs.top/api/get_player_info"
+        url = "https://asteroidpg3d.xyz/api/get_player_info"
         try:
             resp = requests.post(url, json={"player_id": player_id}, timeout=10)
             if resp.status_code == 404:
